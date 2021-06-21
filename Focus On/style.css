@@ -1,0 +1,101 @@
+/* --------- Global --------- */
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    opacity: 1;
+}
+
+body {
+    background-color: #168aad;
+}
+
+
+
+/* --------- Section --------- */
+section {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    background: #168aad;
+    width: 850px;
+    height: 470px;
+    border-color: #1a759f;
+    border-style: solid;
+    border-width: 2px;
+
+}
+div#container {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+}
+
+#timer {
+    margin: auto;
+    text-align: center;
+    font-family: 'Comfortaa', cursive;
+    color: #184e77;
+    margin-top: 15%;
+    font-size: 50pt;
+    max-width: 200px;
+}
+
+.inc {
+    display: block;
+    margin: 0 auto;
+    margin-top: 60px;
+    padding: 15px;
+    font-family: 'Comfortaa', cursive;
+    border-color: #184e77;
+    border-style: solid;
+    background-color: rgba(255, 255, 255, 0);
+    color: #184e77;
+}
+
+#rel {
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+    padding: 5px;
+    font-family: 'Comfortaa', cursive;
+    border-color: #184e7700;
+    border-style: solid;
+    background-color: rgba(255, 255, 255, 0);
+    color: #184e7700;
+}
+
+/* --------- LOGO   --------- */
+
+#logo {
+    text-align: center;
+    margin-top: 40px;
+    padding-bottom: 50px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 29pt;
+    color: #184e77;
+}
+
+
+    
+
+
+/* --------- Footer --------- */
+
+
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    color: #184e77;
+    opacity: 0.6;
+    font-family: 'Raleway', sans-serif;
+
+}
